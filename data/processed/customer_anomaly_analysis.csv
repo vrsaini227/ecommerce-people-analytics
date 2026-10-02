@@ -1,0 +1,209 @@
+user_id,age,gender,total_spending,discounted_spending,total_quantity,number_of_carts,unique_products,unique_categories,average_rating,average_discount,age_group,spending_outlier,quantity_outlier,ml_prediction,anomaly_score,ml_anomaly,anomaly_type,anomaly_reason
+1,29,female,13037.88,11510.817031,12,1,4,4,3.765,8.1575,26-30,False,False,1,0.1202245143458206,False,Normal,Multivariate Behaviour Pattern
+2,36,male,139.93,125.699119,7,1,2,2,3.5250000000000004,12.675,36-40,False,False,1,0.11758440430149314,False,Normal,Multivariate Behaviour Pattern
+3,43,female,1794.85,1625.763524,15,1,6,5,3.515,8.886666666666667,41+,False,False,1,0.11306158388868742,False,Normal,"High Product Diversity, High Category Diversity"
+4,46,male,689.9300000000001,636.8118999999999,7,1,2,2,4.245,7.38,41+,False,False,1,0.10916996309300198,False,Normal,Multivariate Behaviour Pattern
+5,31,female,1467.88,1205.795808,12,1,3,3,4.37,15.173333333333332,31-35,False,False,1,0.06258593733735018,False,Normal,Multivariate Behaviour Pattern
+6,23,female,55453.86,46641.055265,14,1,4,4,4.065,11.8275,≤25,True,False,1,0.11116265569665451,False,Statistical Outlier,Unusually High Spending
+7,39,male,1229.86,1103.658129,14,1,5,5,4.083333333333333,10.616666666666664,36-40,False,False,1,0.1378294292501816,False,Normal,High Category Diversity
+8,28,female,6337.83,5771.316753,17,1,6,5,3.721666666666666,11.065,26-30,False,False,1,0.1293659704015262,False,Normal,"High Product Diversity, High Category Diversity"
+9,34,male,29709.9,27993.456829,10,1,4,4,3.6375,9.795,31-35,False,False,1,0.12412769727006856,False,Normal,Multivariate Behaviour Pattern
+10,32,female,152.44,131.34125299999997,6,1,2,2,3.155,13.565,31-35,False,False,1,0.08386996946959713,False,Normal,Multivariate Behaviour Pattern
+11,30,male,61831.75,57397.856054,15,1,5,5,3.3,10.742,26-30,True,False,1,0.10480474046170013,False,Statistical Outlier,"Unusually High Spending, High Category Diversity"
+12,25,female,37767.32,35410.802104,18,1,6,6,3.811666666666667,9.03,≤25,False,False,1,0.08793492206667558,False,Normal,"High Product Diversity, High Category Diversity"
+13,41,male,16.54,14.972016,6,1,2,1,3.67,8.215,41+,False,False,-1,-0.021398077405483273,True,ML Detected Anomaly,Multivariate Behaviour Pattern
+14,37,female,209.9,184.59641800000003,10,1,3,2,4.083333333333333,9.403333333333334,36-40,False,False,1,0.10323736040780318,False,Normal,Multivariate Behaviour Pattern
+15,33,male,249.95,214.680669,5,1,3,3,4.026666666666666,13.976666666666668,31-35,False,False,1,0.0790689899137762,False,Normal,Multivariate Behaviour Pattern
+16,26,female,384.92,364.701656,8,1,2,2,4.785,7.15,26-30,False,False,1,0.04030685021266989,False,Normal,Multivariate Behaviour Pattern
+17,38,female,5531.34,5014.949358,16,1,4,3,3.985,3.865,36-40,False,False,1,0.03199258020970441,False,Normal,Multivariate Behaviour Pattern
+18,32,male,128999.9,124978.810485,10,1,2,2,3.4450000000000003,10.485,31-35,True,False,1,0.03283650436842067,False,Statistical Outlier,Unusually High Spending
+19,29,female,22142.88,21308.138356,12,1,5,3,3.838,8.209999999999999,26-30,False,False,1,0.08717851960147388,False,Normal,Multivariate Behaviour Pattern
+20,35,male,4711.88,4251.408027,12,1,4,4,3.7575,9.4875,31-35,False,False,1,0.14383904196937725,False,Normal,Multivariate Behaviour Pattern
+21,27,female,12939.94,10966.03642,6,1,3,3,3.176666666666667,13.786666666666669,26-30,False,False,1,0.04806099550304732,False,Normal,Multivariate Behaviour Pattern
+22,34,male,307.92,296.470046,8,1,3,3,4.31,8.536666666666667,31-35,False,False,1,0.1095244475495708,False,Normal,Multivariate Behaviour Pattern
+23,40,female,2499.91,2123.873213,9,1,2,1,3.875,14.23,36-40,False,False,-1,-0.002185709563853777,True,ML Detected Anomaly,Multivariate Behaviour Pattern
+24,31,male,30299.94,26780.047692,6,1,2,2,4.07,13.44,31-35,False,False,1,0.08361469218598977,False,Normal,Multivariate Behaviour Pattern
+25,28,female,1228.35,1070.838114,15,1,5,2,3.666,13.728,26-30,False,False,1,0.0558419356506491,False,Normal,Multivariate Behaviour Pattern
+26,36,female,1111.84,1021.630036,16,1,4,4,3.49,12.925,36-40,False,False,1,0.10464486428565917,False,Normal,Multivariate Behaviour Pattern
+27,42,male,111014.85,100496.36517,15,1,4,4,4.0575,10.275,41+,True,False,1,0.10048536823827048,False,Statistical Outlier,Unusually High Spending
+28,30,female,5944.77,5531.376944,23,1,6,6,3.1633333333333336,11.003333333333332,26-30,False,False,1,0.022357137883110334,False,Normal,"High Product Diversity, High Category Diversity"
+29,39,male,2359.84,2077.886209,16,1,4,4,3.565,7.2875,36-40,False,False,1,0.10479090019664855,False,Normal,Multivariate Behaviour Pattern
+30,33,female,186110.85,155507.17431499998,15,1,6,5,3.8716666666666666,13.06,31-35,True,False,1,0.054952664099875204,False,Statistical Outlier,"Unusually High Spending, High Product Diversity, High Category Diversity"
+31,37,male,1268.88,1110.995915,12,1,5,5,3.536,13.772,36-40,False,False,1,0.09743797748919242,False,Normal,High Category Diversity
+32,29,female,187.44,153.19398200000003,6,1,2,2,4.275,9.59,26-30,False,False,1,0.116933273429705,False,Normal,Multivariate Behaviour Pattern
+33,32,male,129057.77,125461.576948,23,1,6,6,3.58,9.638333333333334,31-35,True,False,1,0.036611850751110064,False,Statistical Outlier,"Unusually High Spending, High Product Diversity, High Category Diversity"
+34,26,female,1479.92,1240.777626,8,1,3,3,4.273333333333333,12.63,26-30,False,False,1,0.11210941617436426,False,Normal,Multivariate Behaviour Pattern
+35,30,male,618.86,507.211194,14,1,6,3,3.611666666666667,11.954999999999998,26-30,False,False,1,0.0725334671191693,False,Normal,High Product Diversity
+36,34,female,98.91,89.376834,9,1,3,3,3.536666666666666,8.299999999999999,31-35,False,False,1,0.09110829015137806,False,Normal,Multivariate Behaviour Pattern
+37,35,male,129.93,119.321634,7,1,2,2,3.645,10.51,31-35,False,False,1,0.12723682252765744,False,Normal,Multivariate Behaviour Pattern
+38,27,female,409.9500000000001,334.61958000000004,5,1,2,2,3.606666666666667,19.0,26-30,False,False,1,0.030993972153106397,False,Normal,Multivariate Behaviour Pattern
+39,31,male,279.96000000000004,249.24357,4,1,2,2,3.97,13.925,31-35,False,False,1,0.11111575529310508,False,Normal,Multivariate Behaviour Pattern
+40,28,female,263.9,253.630841,10,1,3,3,4.34,6.436666666666667,26-30,False,False,1,0.07697989138027905,False,Normal,Multivariate Behaviour Pattern
+41,33,male,49649.82,46340.096819,18,1,5,4,4.006,8.262,31-35,True,False,1,0.10582982135331354,False,Statistical Outlier,Unusually High Spending
+42,29,female,626.84,531.164927,16,1,5,5,4.054,14.566,26-30,False,False,1,0.09835941631768808,False,Normal,High Category Diversity
+43,35,male,1689.88,1521.196542,12,1,4,3,4.1,11.1075,31-35,False,False,1,0.11989936080295,False,Normal,Multivariate Behaviour Pattern
+44,27,female,47055.84,43550.160694,16,1,6,5,3.76,7.986666666666667,26-30,True,False,1,0.10284753897168641,False,Statistical Outlier,"Unusually High Spending, High Product Diversity, High Category Diversity"
+45,31,male,132262.28999999998,121385.94459,21,1,6,4,4.003333333333333,9.558333333333334,31-35,True,False,1,0.06729933844718455,False,Statistical Outlier,"Unusually High Spending, High Product Diversity"
+46,30,female,67607.33,56101.671517,17,1,4,4,3.59,8.15,26-30,True,False,1,0.0908725567685349,False,Statistical Outlier,Unusually High Spending
+47,36,male,50539.87,49199.911181,13,1,5,5,3.4880000000000004,5.136,36-40,True,False,1,0.05674897212988261,False,Statistical Outlier,"Unusually High Spending, High Category Diversity"
+48,28,female,110.91,101.888752,9,1,2,2,3.895,8.51,26-30,False,False,1,0.10090159414150796,False,Normal,Multivariate Behaviour Pattern
+49,32,male,4208.81,3843.759735,19,1,5,5,3.706,9.378,31-35,False,False,1,0.1403971216035858,False,Normal,High Category Diversity
+50,34,female,13144.93,10852.129004,7,1,3,3,3.1966666666666668,11.933333333333332,31-35,False,False,1,0.07084310343762723,False,Normal,Multivariate Behaviour Pattern
+51,30,male,36519.9,32961.039515,10,1,5,4,3.146,9.303999999999998,26-30,False,False,1,0.06478262974142979,False,Normal,Multivariate Behaviour Pattern
+52,27,female,134382.82,130175.2848,18,1,6,6,3.546666666666667,8.828333333333333,26-30,True,False,1,0.060720098019073576,False,Statistical Outlier,"Unusually High Spending, High Product Diversity, High Category Diversity"
+53,36,male,1079.94,1028.188408,6,1,2,2,3.975,11.42,36-40,False,False,1,0.12834576376539708,False,Normal,Multivariate Behaviour Pattern
+54,29,female,10999.95,9998.554287,5,1,2,2,3.785,9.545,26-30,False,False,1,0.09968096029043905,False,Normal,Multivariate Behaviour Pattern
+55,32,male,42.96,39.912789,4,1,2,2,3.82,8.295,31-35,False,False,1,0.0907095929859319,False,Normal,Multivariate Behaviour Pattern
+56,31,female,121.97,109.118719,3,1,2,2,4.1,7.815,31-35,False,False,1,0.09125605542121834,False,Normal,Multivariate Behaviour Pattern
+57,35,male,1269.91,1158.210276,9,1,2,2,4.46,9.83,31-35,False,False,1,0.08406882587920889,False,Normal,Multivariate Behaviour Pattern
+58,28,female,1212.97,1042.771781,3,1,2,2,3.12,11.36,26-30,False,False,1,0.057380615245094746,False,Normal,Multivariate Behaviour Pattern
+59,34,male,74029.97,61859.295981,3,1,2,2,4.4,16.685000000000002,31-35,True,False,-1,-0.03679646959141669,True,Strong Anomaly,Unusually High Spending
+60,33,female,7649.92,6748.382904,8,1,2,2,3.54,9.21,31-35,False,False,1,0.10596861716879485,False,Normal,Multivariate Behaviour Pattern
+61,29,male,642.86,571.582209,14,1,5,5,4.516,12.424,26-30,False,False,1,0.0462794586076718,False,Normal,High Category Diversity
+62,27,female,2851.92,2691.229848,8,1,2,2,3.38,6.81,26-30,False,False,1,0.09221805675129696,False,Normal,Multivariate Behaviour Pattern
+63,34,male,511.92,460.034412,8,1,4,4,3.8125,11.99,31-35,False,False,1,0.10924318169713593,False,Normal,Multivariate Behaviour Pattern
+64,30,female,6032.81,5389.019319999999,19,1,5,5,4.042,7.842,26-30,False,False,1,0.1147378874582497,False,Normal,High Category Diversity
+65,31,male,1717.89,1517.786541,11,1,4,4,3.7125,11.02,31-35,False,False,1,0.14579686279343318,False,Normal,Multivariate Behaviour Pattern
+66,28,female,2295.93,1907.411595,7,1,4,4,4.0425,14.4525,26-30,False,False,1,0.07437774000123987,False,Normal,Multivariate Behaviour Pattern
+67,35,male,443.96,389.602697,4,1,3,3,3.8333333333333335,10.116666666666667,31-35,False,False,1,0.07571313693002574,False,Normal,Multivariate Behaviour Pattern
+68,26,female,252.89,221.04842,11,1,3,2,3.783333333333333,10.883333333333333,26-30,False,False,1,0.1065260502491408,False,Normal,Multivariate Behaviour Pattern
+69,32,male,7185.869999999999,6560.551019999999,13,1,4,4,3.342,9.34,31-35,False,False,1,0.11903761921204148,False,Normal,Multivariate Behaviour Pattern
+70,33,female,3794.83,3295.613878,17,1,5,5,3.778,11.58,31-35,False,False,1,0.14140759481951914,False,Normal,High Category Diversity
+71,30,male,77905.87,72541.01844199999,13,1,4,4,3.3600000000000003,10.31,26-30,True,False,1,0.10865905133856707,False,Statistical Outlier,Unusually High Spending
+72,28,female,322.86,291.772507,14,1,4,4,3.6625,10.2225,26-30,False,False,1,0.13396860363334462,False,Normal,Multivariate Behaviour Pattern
+73,35,male,21807.84,20510.135131,16,1,6,6,3.6016666666666666,12.27,31-35,False,False,1,0.08417872617530653,False,Normal,"High Product Diversity, High Category Diversity"
+74,29,female,1562.41,1379.223926,9,1,4,3,3.7675,12.3875,26-30,False,False,1,0.1255929426187538,False,Normal,Multivariate Behaviour Pattern
+75,32,male,346.44,286.013555,6,1,4,3,4.0025,13.39,31-35,False,False,1,0.07519398580557585,False,Normal,Multivariate Behaviour Pattern
+76,27,female,37629.86,36017.723456,14,1,5,5,3.798000000000001,10.522,26-30,False,False,1,0.14509647261837283,False,Normal,High Category Diversity
+77,34,male,999.95,880.584153,5,1,3,3,3.52,11.083333333333334,31-35,False,False,1,0.0892278616649157,False,Normal,Multivariate Behaviour Pattern
+78,31,female,128964.87,109890.069381,13,1,4,4,3.68,16.6675,31-35,True,False,1,0.04419416763220396,False,Statistical Outlier,Unusually High Spending
+79,33,male,1575.87,1336.499392,13,1,6,6,3.4066666666666667,9.723333333333334,31-35,False,False,1,0.05234450390543299,False,Normal,"High Product Diversity, High Category Diversity"
+80,28,female,1504.93,1217.928201,7,1,2,2,2.78,16.185,26-30,False,False,1,0.02394435231722114,False,Normal,Multivariate Behaviour Pattern
+81,30,male,242.85,217.417283,15,1,4,3,3.4675,10.8475,26-30,False,False,1,0.10674605090871764,False,Normal,Multivariate Behaviour Pattern
+82,27,female,1974.84,1674.537978,16,1,5,4,3.888,11.918,26-30,False,False,1,0.14368389389611147,False,Normal,Multivariate Behaviour Pattern
+83,35,male,150061.36,125678.999389,14,1,5,5,4.158,13.408,31-35,True,False,1,0.06340832257226092,False,Statistical Outlier,"Unusually High Spending, High Category Diversity"
+84,29,female,569.92,542.5522179999999,8,1,3,3,4.24,5.88,26-30,False,False,1,0.08785125400576171,False,Normal,Multivariate Behaviour Pattern
+85,32,male,179.94,163.879906,6,1,2,2,3.17,9.155,31-35,False,False,1,0.0960955097020878,False,Normal,Multivariate Behaviour Pattern
+86,27,female,45249.9,40809.213725,10,1,2,2,4.43,13.725,26-30,False,False,1,0.035082779854596846,False,Normal,Multivariate Behaviour Pattern
+87,34,male,309.92,278.387257,8,1,3,2,4.1866666666666665,12.51,31-35,False,False,1,0.10185472430372272,False,Normal,Multivariate Behaviour Pattern
+88,31,female,149.94,128.129589,6,1,2,2,3.63,11.805,31-35,False,False,1,0.1304380213454533,False,Normal,Multivariate Behaviour Pattern
+89,33,male,2458.83,2111.008971,17,1,5,4,4.136666666666667,14.081666666666669,31-35,False,False,1,0.1061734593991055,False,Normal,Multivariate Behaviour Pattern
+90,28,female,6059.84,5010.1050190000005,16,1,5,5,3.936,16.27,26-30,False,False,1,0.09094109775674797,False,Normal,High Category Diversity
+91,30,male,259.94,228.168878,6,1,2,2,3.655,10.23,26-30,False,False,1,0.13821485685211893,False,Normal,Multivariate Behaviour Pattern
+92,27,female,809.9200000000001,680.168028,8,1,3,3,4.073333333333333,13.546666666666669,26-30,False,False,1,0.12159964588109828,False,Normal,Multivariate Behaviour Pattern
+93,35,male,1809.86,1468.769531,14,1,5,4,3.724,14.714,31-35,False,False,1,0.11980345210054355,False,Normal,Multivariate Behaviour Pattern
+94,29,female,345.81,312.1364,19,1,5,5,4.072,9.803999999999998,26-30,False,False,1,0.09064233450313819,False,Normal,High Category Diversity
+95,32,male,154490.75999999998,129783.312383,24,1,5,5,3.4916666666666667,10.215,31-35,True,False,1,0.04865762440150856,False,Statistical Outlier,"Unusually High Spending, High Category Diversity"
+96,27,female,104.93,92.512146,7,1,2,2,4.245,11.785,26-30,False,False,1,0.1059632272685731,False,Normal,Multivariate Behaviour Pattern
+97,34,male,2013.93,1623.415194,7,1,3,2,3.4066666666666667,14.103333333333332,31-35,False,False,1,0.07075368499180934,False,Normal,Multivariate Behaviour Pattern
+98,31,female,1010.78,896.9664760000001,22,1,6,6,4.086666666666667,8.661666666666667,31-35,False,False,1,0.04272583261460705,False,Normal,"High Product Diversity, High Category Diversity"
+99,33,male,124.4,117.959226,10,1,4,3,3.04,6.055,31-35,False,False,-1,-0.007963972599756453,True,ML Detected Anomaly,Multivariate Behaviour Pattern
+100,28,female,33003.130000000005,31771.924599,7,1,2,2,3.595,6.715,26-30,False,False,1,0.08164694661770666,False,Normal,Multivariate Behaviour Pattern
+101,29,female,1551.88,1464.78807,12,1,5,4,3.4560000000000004,6.922,26-30,False,False,1,0.08778067148142626,False,Normal,Multivariate Behaviour Pattern
+102,36,male,171.9,155.126925,10,1,5,4,3.978,12.758,36-40,False,False,1,0.07594737775280996,False,Normal,Multivariate Behaviour Pattern
+103,43,female,35.89,31.791058,11,1,3,1,4.026666666666666,12.32,41+,False,False,-1,-0.02795320818178837,True,ML Detected Anomaly,Multivariate Behaviour Pattern
+104,25,male,1120.23,990.528994,27,1,6,4,3.668333333333333,11.385,≤25,False,False,1,0.04646603525906989,False,Normal,High Product Diversity
+105,32,female,147.91,134.21064,9,1,3,3,4.45,11.143333333333333,31-35,False,False,1,0.07235889139629748,False,Normal,Multivariate Behaviour Pattern
+106,40,male,104.97,94.377684,3,1,2,2,3.615,6.944999999999999,36-40,False,False,1,0.08453225044146628,False,Normal,Multivariate Behaviour Pattern
+107,30,female,129.97,120.923071,3,1,2,2,3.8,6.8100000000000005,26-30,False,False,1,0.09301336280244749,False,Normal,Multivariate Behaviour Pattern
+108,46,male,1062.96,935.632569,4,1,2,2,3.135,10.325,41+,False,False,1,0.08146438010152524,False,Normal,Multivariate Behaviour Pattern
+109,34,female,10089.94,9615.551944,6,1,2,2,3.92,5.34,31-35,False,False,1,0.06674013085614888,False,Normal,Multivariate Behaviour Pattern
+110,28,male,37703.85,31595.180944,15,1,5,5,4.114,12.398,26-30,False,False,1,0.12300188119104216,False,Normal,High Category Diversity
+111,37,female,13899.91,11845.12448,9,1,2,2,3.82,16.3,36-40,False,False,1,0.06864102697444369,False,Normal,Multivariate Behaviour Pattern
+112,42,male,384.88,343.41301,12,1,4,4,3.865,10.7925,41+,False,False,1,0.13767592387780597,False,Normal,Multivariate Behaviour Pattern
+113,26,female,1624.87,1480.4474329999998,13,1,3,2,2.9633333333333334,12.73,26-30,False,False,1,0.03061061768609119,False,Normal,Multivariate Behaviour Pattern
+114,33,male,37699.93,33323.099224,7,1,2,2,3.78,14.375,31-35,False,False,1,0.07817000622831666,False,Normal,Multivariate Behaviour Pattern
+115,39,female,4526.87,4223.956509000001,13,1,5,4,3.244,9.488,36-40,False,False,1,0.11345294748475149,False,Normal,Multivariate Behaviour Pattern
+116,27,male,9141.33,8558.543556,17,1,5,5,3.666,9.716,26-30,False,False,1,0.14310058319508517,False,Normal,High Category Diversity
+117,44,female,10989.86,9985.793194,14,1,5,5,4.098000000000001,9.358,41+,False,False,1,0.13572291359129518,False,Normal,High Category Diversity
+118,31,male,158.85,141.136351,15,1,4,4,3.7225,11.25,31-35,False,False,1,0.10378072024096835,False,Normal,Multivariate Behaviour Pattern
+119,35,male,299.96000000000004,252.154812,4,1,2,1,4.15,17.03,31-35,False,False,-1,-0.026340085995025242,True,ML Detected Anomaly,Multivariate Behaviour Pattern
+120,38,female,879.9200000000001,814.898574,8,1,3,3,4.353333333333333,9.583333333333334,36-40,False,False,1,0.11376627218289148,False,Normal,Multivariate Behaviour Pattern
+121,30,female,83.9,79.414462,10,1,3,2,3.956666666666667,8.836666666666666,26-30,False,False,1,0.09088611679942499,False,Normal,Multivariate Behaviour Pattern
+122,45,male,27089.94,24688.494525,6,1,3,3,4.306666666666667,5.576666666666667,41+,False,False,1,0.022780163095897588,False,Normal,Multivariate Behaviour Pattern
+123,24,female,84301.79000000001,78514.372769,21,1,6,5,3.5849999999999995,9.836666666666666,≤25,True,False,1,0.09711667999230711,False,Statistical Outlier,"Unusually High Spending, High Product Diversity, High Category Diversity"
+124,40,male,469.85,433.95893500000005,15,1,4,2,3.7775,8.127500000000001,36-40,False,False,1,0.06632331083263732,False,Normal,Multivariate Behaviour Pattern
+125,46,male,3364.92,3047.8148910000004,8,1,2,2,4.24,10.765,41+,False,False,1,0.10171577587024583,False,Normal,Multivariate Behaviour Pattern
+126,28,female,1105.34,920.908734,16,1,5,4,4.0200000000000005,12.568,26-30,False,False,1,0.13957593145623248,False,Normal,Multivariate Behaviour Pattern
+127,41,male,1023.86,887.48961,14,1,5,4,3.4840000000000004,10.774,41+,False,False,1,0.13647679623631997,False,Normal,Multivariate Behaviour Pattern
+128,36,female,10236.85,9755.408245,15,1,5,5,3.85,5.8740000000000006,36-40,False,False,1,0.10174106093864677,False,Normal,High Category Diversity
+129,27,male,2246.3,1878.788016,20,1,6,4,3.95,8.955,26-30,False,False,1,0.10358114600950563,False,Normal,High Product Diversity
+130,42,female,30625.95,29328.265826000003,5,1,3,3,4.19,7.706666666666667,41+,False,False,1,0.03979088144217924,False,Normal,Multivariate Behaviour Pattern
+131,34,male,3702.71,3474.0934499999994,19,1,6,6,4.105,7.648333333333333,31-35,False,False,1,0.059109242369793424,False,Normal,"High Product Diversity, High Category Diversity"
+132,29,female,13411.81,11523.227158000002,19,1,5,4,4.331666666666666,10.748333333333331,26-30,False,False,1,0.08458440752956664,False,Normal,Multivariate Behaviour Pattern
+133,38,male,9559.87,8818.698704999999,13,1,4,4,3.278,11.402,36-40,False,False,1,0.10108049751317688,False,Normal,Multivariate Behaviour Pattern
+134,25,female,2056.81,1740.754129,19,1,6,5,4.265,12.65,≤25,False,False,1,0.07618294339006904,False,Normal,"High Product Diversity, High Category Diversity"
+135,30,male,889.8700000000001,751.722156,13,1,3,3,3.7275,15.8325,26-30,False,False,1,0.09052111032819327,False,Normal,Multivariate Behaviour Pattern
+136,37,female,405.93,360.461649,7,1,3,3,4.206666666666667,11.256666666666666,36-40,False,False,1,0.11504324378457087,False,Normal,Multivariate Behaviour Pattern
+137,43,male,12442.86,10941.818102,14,1,5,5,3.5840000000000005,9.888,41+,False,False,1,0.14313063116597513,False,Normal,High Category Diversity
+138,32,female,15029.93,13292.048791,7,1,2,2,3.395,7.265000000000001,31-35,False,False,1,0.093872222463658,False,Normal,Multivariate Behaviour Pattern
+139,27,male,36.97,36.169816,3,1,2,2,4.335,1.765,26-30,False,False,-1,-0.0266269568260451,True,ML Detected Anomaly,Multivariate Behaviour Pattern
+140,36,female,643.9100000000001,614.718414,9,1,3,3,3.533333333333333,7.856666666666666,36-40,False,False,1,0.11589399823278174,False,Normal,Multivariate Behaviour Pattern
+141,44,male,2991.36,2506.7196320000003,14,1,4,3,4.19,14.0725,41+,False,False,1,0.08964342457003283,False,Normal,Multivariate Behaviour Pattern
+142,28,female,2675.8,2499.067112,20,1,6,5,3.63,8.176666666666668,26-30,False,False,1,0.1086631553140483,False,Normal,"High Product Diversity, High Category Diversity"
+143,31,male,17609.79,15464.379106,21,1,6,5,4.451666666666667,10.468333333333334,31-35,False,False,1,0.049704494782308095,False,Normal,"High Product Diversity, High Category Diversity"
+144,39,female,4269.05,3608.562581,15,1,5,5,4.18,9.188,36-40,False,False,1,0.1309311338709302,False,Normal,High Category Diversity
+145,26,male,1153.84,1030.103149,16,1,6,4,3.6016666666666666,10.485,26-30,False,False,1,0.12477129962954198,False,Normal,High Product Diversity
+146,33,female,562.82,506.057174,18,1,6,5,3.6033333333333335,9.73,31-35,False,False,1,0.11095370133617471,False,Normal,"High Product Diversity, High Category Diversity"
+147,45,male,2102.83,1898.14075,17,1,5,4,4.114,10.16,41+,False,False,1,0.1314767491951993,False,Normal,Multivariate Behaviour Pattern
+148,30,female,71.93,58.552508,7,1,2,2,3.245,16.43,26-30,False,False,1,0.04333093661200338,False,Normal,Multivariate Behaviour Pattern
+149,35,male,39227.33,34702.265604,17,1,4,4,3.8925,9.7275,31-35,False,False,1,0.11448332466769845,False,Normal,Multivariate Behaviour Pattern
+150,40,female,1029.42,989.154323,8,1,3,3,3.2099999999999995,9.876666666666669,36-40,False,False,1,0.1009234708250859,False,Normal,Multivariate Behaviour Pattern
+151,29,male,247.85,222.391063,15,1,4,3,3.404,10.472,26-30,False,False,1,0.09940320221484383,False,Normal,Multivariate Behaviour Pattern
+152,44,female,4119.91,3369.70471,9,1,2,2,3.93,16.095,41+,False,False,1,0.08558344294161974,False,Normal,Multivariate Behaviour Pattern
+153,32,male,4309.849999999999,3678.456186,15,1,6,6,3.8216666666666663,15.061666666666667,31-35,False,False,1,0.055577590203398475,False,Normal,"High Product Diversity, High Category Diversity"
+154,27,female,573.92,532.533127,8,1,3,3,3.673333333333333,9.893333333333333,26-30,False,False,1,0.13418783166366316,False,Normal,Multivariate Behaviour Pattern
+155,42,male,131224.81,110543.887045,19,1,5,4,4.082,8.672,41+,True,False,1,0.0809378118081781,False,Statistical Outlier,Unusually High Spending
+156,34,female,2643.86,2422.8024800000003,14,1,2,2,2.686666666666667,8.936666666666667,31-35,False,False,1,0.00047811031165490014,False,Normal,Multivariate Behaviour Pattern
+157,28,male,6.98,6.652515,2,1,2,2,4.11,7.074999999999999,26-30,False,False,-1,-0.013361960092966085,True,ML Detected Anomaly,Multivariate Behaviour Pattern
+158,37,female,1169.89,1079.677114,11,1,5,4,4.122,10.62,36-40,False,False,1,0.1246498221445122,False,Normal,Multivariate Behaviour Pattern
+159,31,male,451.84,396.928135,16,1,6,5,3.675,13.708333333333334,31-35,False,False,1,0.08359009880989798,False,Normal,"High Product Diversity, High Category Diversity"
+160,30,female,164.95999999999998,142.663767,4,1,2,2,4.195,13.655,26-30,False,False,1,0.10007779813054507,False,Normal,Multivariate Behaviour Pattern
+161,45,male,2339.82,2168.943904,18,1,5,5,3.412,8.540000000000001,41+,False,False,1,0.10197526991005706,False,Normal,High Category Diversity
+162,29,male,3236.87,2982.325757,13,1,4,4,3.4325,11.3775,26-30,False,False,1,0.1329663694811848,False,Normal,Multivariate Behaviour Pattern
+163,25,male,1494.86,1248.145089,14,1,5,4,4.11,11.166,≤25,False,False,1,0.14598591615443035,False,Normal,Multivariate Behaviour Pattern
+164,30,female,227.88,195.931304,12,1,3,3,3.613333333333333,12.753333333333332,26-30,False,False,1,0.1101157269508119,False,Normal,Multivariate Behaviour Pattern
+165,37,male,20196.86,17751.611589999997,14,1,6,5,3.898333333333333,11.175,36-40,False,False,1,0.12027321933082208,False,Normal,"High Product Diversity, High Category Diversity"
+166,43,female,129.97,108.974808,3,1,2,2,4.12,16.439999999999998,41+,False,False,1,0.059505187084064826,False,Normal,Multivariate Behaviour Pattern
+167,32,male,48201.41,46202.715324,9,1,3,3,3.983333333333333,5.739999999999999,31-35,True,False,1,0.049709299385767514,False,Statistical Outlier,Unusually High Spending
+168,27,female,99.94,91.931402,6,1,2,1,3.975,8.385,26-30,False,False,1,0.015424000694597595,False,Normal,Multivariate Behaviour Pattern
+169,42,male,36799.95,33456.435386,5,1,2,2,4.605,13.61,41+,False,False,1,0.022338542640472414,False,Normal,Multivariate Behaviour Pattern
+170,34,female,1829.86,1512.8950020000002,14,1,5,4,3.6599999999999993,9.748,31-35,False,False,1,0.15051153655282884,False,Normal,Multivariate Behaviour Pattern
+171,28,male,219.94,191.803597,6,1,2,2,3.42,12.085,26-30,False,False,1,0.1094883772132651,False,Normal,Multivariate Behaviour Pattern
+172,37,female,574.8900000000001,495.77784500000007,11,1,4,4,3.5725,11.2425,36-40,False,False,1,0.13354446437293244,False,Normal,Multivariate Behaviour Pattern
+173,31,male,17785.88,16911.498765,12,1,4,4,3.465,11.235,31-35,False,False,1,0.1258443369802923,False,Normal,Multivariate Behaviour Pattern
+174,30,female,752.77,701.399635,23,1,6,5,4.151666666666666,10.839999999999998,26-30,False,False,1,0.07712826762503538,False,Normal,"High Product Diversity, High Category Diversity"
+175,45,male,349.97,302.883944,3,1,2,2,4.595000000000001,13.685,41+,False,False,1,0.01869917930410958,False,Normal,Multivariate Behaviour Pattern
+176,29,female,269.93,218.177545,7,1,2,2,3.61,16.655,26-30,False,False,1,0.09703344042068507,False,Normal,Multivariate Behaviour Pattern
+177,38,male,2399.91,2299.478334,9,1,2,2,4.699999999999999,8.535,36-40,False,False,1,0.04902821738953944,False,Normal,Multivariate Behaviour Pattern
+178,26,female,6785.79,5846.396358,21,1,6,6,4.136666666666667,11.721666666666666,26-30,False,False,1,0.06356781363682212,False,Normal,"High Product Diversity, High Category Diversity"
+179,43,male,27567.34,25098.322993,16,1,6,6,3.888333333333333,12.686666666666667,41+,False,False,1,0.08411258400692756,False,Normal,"High Product Diversity, High Category Diversity"
+180,32,female,6.970000000000001,6.873853,3,1,2,2,3.845,1.265,31-35,False,False,-1,-0.04566565566055247,True,ML Detected Anomaly,Multivariate Behaviour Pattern
+181,27,male,4707.9400000000005,4138.330085,6,1,3,3,3.186666666666667,10.633333333333336,26-30,False,False,1,0.06906371899614377,False,Normal,Multivariate Behaviour Pattern
+182,42,female,3411.8,3195.462542,20,1,6,4,3.248333333333333,7.97,41+,False,False,1,0.05774683049575413,False,Normal,High Product Diversity
+183,34,male,62954.84,59760.663344,16,1,5,4,3.78,15.5,31-35,True,False,1,0.08109630266630086,False,Statistical Outlier,Unusually High Spending
+184,29,female,14015.98,13307.50143,2,1,2,2,2.665,7.15,26-30,False,False,-1,-0.04231624657589217,True,ML Detected Anomaly,Multivariate Behaviour Pattern
+185,45,male,1404.95,1243.1723909999998,5,1,2,2,4.765000000000001,12.19,41+,False,False,1,0.0362616624826646,False,Normal,Multivariate Behaviour Pattern
+186,30,female,364.92,359.713272,8,1,2,2,4.555,7.279999999999999,26-30,False,False,1,0.06767396355305338,False,Normal,Multivariate Behaviour Pattern
+187,37,male,10844.88,9255.333534,12,1,4,4,3.7225,15.845,36-40,False,False,1,0.09407163155733889,False,Normal,Multivariate Behaviour Pattern
+188,26,female,184.92,171.552012,8,1,4,3,3.72,11.77,26-30,False,False,1,0.10684151175466,False,Normal,Multivariate Behaviour Pattern
+189,31,male,1289.92,1172.57228,8,1,3,3,3.61,11.753333333333336,31-35,False,False,1,0.1339493003747098,False,Normal,Multivariate Behaviour Pattern
+190,32,female,56079.92,53242.950508,8,1,2,2,2.74,8.135,31-35,True,False,1,0.014086529351677646,False,Statistical Outlier,Unusually High Spending
+191,42,female,43489.89,36398.993715,11,1,5,5,3.912,9.388000000000002,41+,False,False,1,0.11085222249761706,False,Normal,High Category Diversity
+192,34,male,70627.3,67061.66444000001,20,1,5,5,3.2980000000000005,6.934,31-35,True,False,1,0.07025362091194037,False,Statistical Outlier,"Unusually High Spending, High Category Diversity"
+193,29,female,655.8000000000001,565.457232,20,1,6,5,3.611666666666667,8.481666666666667,26-30,False,False,1,0.09244555089541562,False,Normal,"High Product Diversity, High Category Diversity"
+194,46,male,87090.90000000001,83615.856774,10,1,3,3,4.133333333333333,10.903333333333334,41+,True,False,1,0.0521131962262924,False,Statistical Outlier,Unusually High Spending
+195,30,female,44661.82,37543.796995,18,1,6,5,3.661666666666666,12.991666666666667,26-30,False,False,1,0.09288559066872842,False,Normal,"High Product Diversity, High Category Diversity"
+196,35,male,75209.81999999999,70006.804364,18,1,5,5,3.178,6.298,31-35,True,False,1,0.04850096998561959,False,Statistical Outlier,"Unusually High Spending, High Category Diversity"
+197,38,female,58063.93,55748.900566,7,1,3,3,3.3000000000000003,8.313333333333334,36-40,True,False,1,0.050578802991485206,False,Statistical Outlier,Unusually High Spending
+198,33,male,100565.86,92308.320665,14,1,4,3,3.8025,10.0625,31-35,True,False,1,0.08370445260832454,False,Statistical Outlier,Unusually High Spending
+199,27,female,28239.94,26800.961174,6,1,2,2,2.925,7.73,26-30,False,False,1,0.052143009560631226,False,Normal,Multivariate Behaviour Pattern
+200,44,male,22694.77,21783.551856,23,1,5,5,3.4933333333333336,11.078333333333331,41+,False,False,1,0.08095870140687927,False,Normal,High Category Diversity
+201,30,female,128096.37,109195.894383,13,1,4,4,3.3275,10.9075,26-30,True,False,1,0.09198108236399727,False,Statistical Outlier,Unusually High Spending
+202,37,male,23114.79,20545.546140999995,21,1,6,6,3.9166666666666665,10.746666666666668,36-40,False,False,1,0.08052771345470189,False,Normal,"High Product Diversity, High Category Diversity"
+203,32,female,50.95,46.543059,5,1,2,2,3.72,8.015,31-35,False,False,1,0.09802956788831385,False,Normal,Multivariate Behaviour Pattern
+204,46,male,25591.84,23182.993362,16,1,5,5,3.5500000000000003,8.755,41+,False,False,1,0.13557060220984735,False,Normal,High Category Diversity
+205,29,female,16011.94,14075.869366,6,1,2,2,4.8100000000000005,6.365,26-30,False,False,-1,-0.000257444013967989,True,ML Detected Anomaly,Multivariate Behaviour Pattern
+206,35,female,229.92,213.25773,8,1,3,3,3.923333333333333,6.97,31-35,False,False,1,0.10121635864698825,False,Normal,Multivariate Behaviour Pattern
+207,42,male,22719.79,20090.108401,21,1,6,4,3.928333333333333,10.213333333333331,41+,False,False,1,0.09748164647577084,False,Normal,High Product Diversity
+208,28,female,304.95000000000005,260.12406,5,1,2,2,4.395,12.69,26-30,False,False,1,0.09554409059023117,False,Normal,Multivariate Behaviour Pattern

@@ -1,0 +1,29 @@
+E-COMMERCE PEOPLE ANALYTICS
+BUSINESS INSIGHTS REPORT
+======================================================================
+
+DATASET OVERVIEW
+Total Customers: 208
+Total Categories: 24
+Average Customer Spending: 18434.03
+Median Customer Spending: 1994.38
+
+BUSINESS INSIGHTS
+----------------------------------------------------------------------
+1. The vehicle category generated the highest calculated monetary value of approximately 1682064.06.
+2. The kitchen-accessories category recorded the highest total quantity of 361 units.
+3. The highest-value individual product was Durango SXT RWD, contributing approximately 587426.64.
+4. The highest-quantity product was Cat Food, with 37 units.
+5. The average customer spending was 18434.03, while the median was 1994.38.
+6. 18.27% of customers were identified as behavioural anomalies using statistical and machine-learning methods.
+7. 1 customer was classified as a strong anomaly by the combined detection approach.
+8. The highest-rated category was mens-shoes with an average rating of 4.74.
+9. The category with the highest average discount was womens-dresses with an average discount of 16.12%.
+
+
+STATISTICAL VALIDATION
+----------------------------------------------------------------------
+- Gender vs Spending: No statistically significant difference detected.
+- Age vs Spending: No statistically significant monotonic relationship detected.
+- Age Group vs Spending: No statistically significant difference detected.
+- Gender vs Product Category: No statistically significant association detected.

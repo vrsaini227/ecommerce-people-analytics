@@ -1,0 +1,190 @@
+product_id,title,category,total_quantity,total_value,average_price,average_discount,average_rating,business_pattern
+1,Essence Mascara Lash Princess,beauty,18,160.974864,9.99,10.48,2.56,High Quantity - Lower Value
+2,Eyeshadow Palette with Mirror,beauty,11,179.892009,19.99,18.19,2.86,Low Quantity - Lower Value
+3,Powder Canister,beauty,21,283.814664,14.99,9.84,4.64,High Quantity - Lower Value
+4,Red Lipstick,beauty,11,125.51457599999999,12.99,12.16,4.36,Low Quantity - Lower Value
+5,Red Nail Polish,beauty,9,71.653896,8.99,11.44,4.32,Low Quantity - Lower Value
+6,Calvin Klein CK One,fragrances,12,588.542268,49.99,1.89,4.37,High Quantity - High Value
+7,Chanel Coco Noir Eau De,fragrances,16,1736.458416,129.99,16.51,4.26,High Quantity - High Value
+8,Dior J'adore,fragrances,19,1458.1259679999998,89.99,14.72,3.8,High Quantity - High Value
+9,Dolce Shine Eau de,fragrances,10,695.56062,69.99,0.62,3.96,Low Quantity - High Value
+10,Gucci Bloom Eau de,fragrances,7,479.35607300000004,79.99,14.39,2.74,Low Quantity - High Value
+11,Annibale Colombo Bed,furniture,5,8685.804285,1899.99,8.57,4.77,Low Quantity - High Value
+12,Annibale Colombo Sofa,furniture,23,49219.80312,2499.9900000000002,14.4,3.9199999999999995,High Quantity - High Value
+13,Bedside Table African Cherry,furniture,16,3883.550544,299.99,19.09,2.87,High Quantity - High Value
+14,Knoll Saarinen Executive Conference Chair,furniture,22,10778.684422,499.99,2.01,4.88,High Quantity - High Value
+15,Wooden Bathroom Sink With Mirror,furniture,7,5107.13616,799.99,8.8,3.59,Low Quantity - High Value
+16,Apple,groceries,12,20.866344,1.9899999999999998,12.62,4.19,High Quantity - Lower Value
+17,Beef Steak,groceries,8,93.933288,12.99,9.61,4.47,Low Quantity - Lower Value
+18,Cat Food,groceries,37,300.764046,8.99,9.58,3.1300000000000003,High Quantity - Lower Value
+19,Chicken Meat,groceries,11,94.83507,9.99,13.699999999999998,3.19,Low Quantity - Lower Value
+20,Cooking Oil,groceries,8,36.195464,4.99,9.33,4.8,Low Quantity - Lower Value
+21,Cucumber,groceries,23,34.215168,1.49,0.16,4.07,High Quantity - Lower Value
+22,Dog Food,groceries,6,59.167962,10.99,10.27,4.55,Low Quantity - Lower Value
+23,Eggs,groceries,9,23.936445,2.99,11.05,2.53,Low Quantity - Lower Value
+24,Fish Steak,groceries,20,287.11846,14.99,4.23,3.78,High Quantity - Lower Value
+25,Green Bell Pepper,groceries,8,10.303488,1.29,0.16,3.25,Low Quantity - Lower Value
+26,Green Chili Pepper,groceries,12,11.7612,0.9899999999999999,1.0,3.66,High Quantity - Lower Value
+27,Honey Jar,groceries,11,65.81783999999999,6.989999999999999,14.4,3.97,Low Quantity - Lower Value
+28,Ice Cream,groceries,25,125.32297500000001,5.489999999999999,8.69,3.39,High Quantity - Lower Value
+29,Juice,groceries,5,17.54403,3.99,12.06,3.94,Low Quantity - Lower Value
+30,Kiwi,groceries,12,25.332264000000002,2.49,15.22,4.93,High Quantity - Lower Value
+31,Lemon,groceries,4,2.85348,0.79,9.7,3.53,Low Quantity - Lower Value
+32,Milk,groceries,16,48.167584000000005,3.49,13.74,2.61,High Quantity - Lower Value
+33,Mulberry,groceries,9,39.130083,4.99,12.87,4.95,Low Quantity - Lower Value
+34,Nescafe Coffee,groceries,4,31.451836,7.99,1.59,4.82,Low Quantity - Lower Value
+35,Potatoes,groceries,19,41.169162,2.29,5.38,4.81,High Quantity - Lower Value
+36,Protein Powder,groceries,16,295.564144,19.99,7.590000000000001,4.18,High Quantity - Lower Value
+37,Red Onions,groceries,15,26.894849999999998,1.9899999999999998,9.9,4.2,High Quantity - Lower Value
+38,Rice,groceries,22,119.537638,5.99,9.290000000000001,3.18,High Quantity - Lower Value
+39,Soft Drinks,groceries,13,21.347924,1.99,17.48,4.75,High Quantity - Lower Value
+40,Strawberry,groceries,3,11.835936,3.99,1.12,3.08,Low Quantity - Lower Value
+41,Tissue Paper Box,groceries,11,23.752608000000002,2.49,13.28,2.69,Low Quantity - Lower Value
+42,Water,groceries,15,12.63438,0.99,14.919999999999998,4.96,High Quantity - Lower Value
+43,Decoration Swing,home-decoration,24,1289.880984,59.99,10.41,3.16,High Quantity - High Value
+44,Family Tree Photo Frame,home-decoration,10,255.30487,29.99,14.87,4.53,Low Quantity - Lower Value
+45,House Showpiece Plant,home-decoration,11,407.074206,39.99,7.46,4.67,Low Quantity - High Value
+46,Plant Pot,home-decoration,27,377.046468,14.99,6.84,3.01,High Quantity - High Value
+47,Table Lamp,home-decoration,9,418.01138100000003,49.99,7.09,3.55,Low Quantity - High Value
+48,Bamboo Spatula,kitchen-accessories,8,62.104672,7.989999999999999,2.84,3.27,Low Quantity - Lower Value
+49,Black Aluminium Cup,kitchen-accessories,7,35.367955,5.989999999999999,15.65,4.46,Low Quantity - Lower Value
+50,Black Whisk,kitchen-accessories,9,80.703216,9.99,10.24,3.9,Low Quantity - Lower Value
+51,Boxed Blender,kitchen-accessories,18,667.561068,39.99,7.26,4.56,High Quantity - High Value
+52,Carbon Steel Wok,kitchen-accessories,20,560.63306,29.99,6.53,4.05,High Quantity - High Value
+53,Chopping Board,kitchen-accessories,23,274.778769,12.99,8.03,3.7000000000000006,High Quantity - Lower Value
+54,Citrus Squeezer Yellow,kitchen-accessories,8,63.21768,8.99,12.1,4.63,Low Quantity - Lower Value
+55,Egg Slicer,kitchen-accessories,13,77.457588,6.989999999999999,14.76,3.09,High Quantity - Lower Value
+56,Electric Stove,kitchen-accessories,6,257.828424,49.99,14.039999999999997,4.11,Low Quantity - Lower Value
+57,Fine Mesh Strainer,kitchen-accessories,8,77.1228,9.99,3.5,3.04,Low Quantity - Lower Value
+58,Fork,kitchen-accessories,9,33.012063000000005,3.99,8.07,3.11,Low Quantity - Lower Value
+59,Glass,kitchen-accessories,14,64.327088,4.99,7.919999999999999,4.02,High Quantity - Lower Value
+60,Grater Black,kitchen-accessories,20,211.97512,10.99,3.56,3.21,High Quantity - Lower Value
+61,Hand Blender,kitchen-accessories,12,348.416424,34.99,17.02,3.8600000000000003,High Quantity - High Value
+62,Ice Cube Tray,kitchen-accessories,4,23.809052,5.99,0.63,4.71,Low Quantity - Lower Value
+63,Kitchen Sieve,kitchen-accessories,19,123.10272900000001,7.99,18.91,3.09,High Quantity - Lower Value
+64,Knife,kitchen-accessories,3,36.488658,14.99,18.86,3.26,Low Quantity - Lower Value
+65,Lunch Box,kitchen-accessories,18,209.643012,12.99,10.34,4.93,High Quantity - Lower Value
+66,Microwave Oven,kitchen-accessories,9,711.667917,89.99,12.13,4.82,Low Quantity - High Value
+67,Mug Tree Stand,kitchen-accessories,16,232.1748,15.99,9.25,2.64,High Quantity - Lower Value
+68,Pan,kitchen-accessories,19,460.5657,24.99,3.0,2.7900000000000005,High Quantity - High Value
+69,Plate,kitchen-accessories,15,55.474965000000005,3.99,7.31,3.65,High Quantity - Lower Value
+70,Red Tongs,kitchen-accessories,9,53.775468000000004,6.99,14.52,4.42,Low Quantity - Lower Value
+71,Silver Pot With Glass Cap,kitchen-accessories,9,339.39513,39.99,5.7,3.22,Low Quantity - High Value
+72,Slotted Turner,kitchen-accessories,12,93.47802,8.99,13.35,3.4,High Quantity - Lower Value
+73,Spice Rack,kitchen-accessories,10,175.73208999999997,19.99,12.09,4.87,Low Quantity - Lower Value
+74,Spoon,kitchen-accessories,13,63.877489000000004,4.99,1.53,4.03,High Quantity - Lower Value
+75,Tray,kitchen-accessories,14,220.06807199999997,16.99,7.48,4.62,High Quantity - Lower Value
+76,Wooden Rolling Pin,kitchen-accessories,3,32.462925,11.99,9.75,2.92,Low Quantity - Lower Value
+77,Yellow Peeler,kitchen-accessories,13,68.151824,5.99,12.48,4.24,High Quantity - Lower Value
+78,Apple MacBook Pro 14 Inch Space Grey,laptops,21,40029.999849,1999.99,4.69,3.65,High Quantity - High Value
+79,Asus Zenbook Pro Dual Screen Laptop,laptops,7,11196.297798,1799.99,11.14,3.9500000000000006,Low Quantity - High Value
+80,Huawei Matebook X Pro,laptops,11,13955.380318,1399.99,9.38,4.98,Low Quantity - High Value
+81,Lenovo Yoga 920,laptops,9,9251.465895000001,1099.99,6.55,2.86,Low Quantity - High Value
+82,New DELL XPS 13 9300 Laptop,laptops,8,10573.129512,1499.99,11.89,2.67,Low Quantity - High Value
+83,Blue & Black Check Shirt,mens-shirts,13,330.024955,29.99,15.35,3.64,High Quantity - High Value
+84,Gigabyte Aorus Men Tshirt,mens-shirts,5,123.77547,24.99,0.94,3.18,Low Quantity - Lower Value
+85,Man Plaid Shirt,mens-shirts,5,140.83474999999999,34.99,19.5,3.46,Low Quantity - Lower Value
+86,Man Short Sleeve Shirt,mens-shirts,13,242.120879,19.99,6.830000000000001,2.9,High Quantity - Lower Value
+87,Men Check Shirt,mens-shirts,21,520.899498,27.99,11.38,2.72,High Quantity - High Value
+88,Nike Air Jordan 1 Red And Black,mens-shoes,19,2732.397828,149.99,4.12,4.77,High Quantity - High Value
+89,Nike Baseball Cleats,mens-shoes,3,196.679412,79.99,18.04,3.88,Low Quantity - Lower Value
+90,Puma Future Rider Trainers,mens-shoes,22,1896.62924,89.99,4.2,4.9,High Quantity - High Value
+91,Sports Sneakers Off White & Red,mens-shoes,11,1254.291467,119.99,4.97,4.77,Low Quantity - High Value
+92,Sports Sneakers Off White Red,mens-shoes,20,2198.92008,109.99,0.04,4.69,High Quantity - High Value
+93,Brown Leather Belt Watch,mens-watches,15,1268.993985,89.99,5.99,4.19,High Quantity - High Value
+94,Longines Master Collection,mens-watches,3,3724.175172,1499.99,17.24,3.87,Low Quantity - High Value
+95,Rolex Cellini Date Black Dial,mens-watches,13,106610.281544,8999.99,8.88,4.97,High Quantity - High Value
+96,Rolex Cellini Moonphase,mens-watches,10,107223.91752,12999.99,17.52,2.58,Low Quantity - High Value
+97,Rolex Datejust,mens-watches,14,148255.66522199998,10999.99,3.7299999999999995,3.66,High Quantity - High Value
+98,Rolex Submariner Watch,mens-watches,17,225980.838585,13999.99,5.05,2.69,High Quantity - High Value
+99,Amazon Echo Plus,mobile-accessories,18,1582.581726,99.99,12.07,4.99,High Quantity - High Value
+100,Apple Airpods,mobile-accessories,27,2964.317958,129.99,15.539999999999997,4.15,High Quantity - High Value
+101,Apple AirPods Max Silver,mobile-accessories,8,3798.450936,549.99,13.67,3.47,Low Quantity - High Value
+102,Apple Airpower Wireless Charger,mobile-accessories,11,840.470928,79.99,4.48,3.68,Low Quantity - High Value
+103,Apple HomePod Mini Cosmic Grey,mobile-accessories,9,737.02629,99.99,18.1,4.62,Low Quantity - High Value
+104,Apple iPhone Charger,mobile-accessories,7,114.01496399999999,19.99,18.52,4.15,Low Quantity - Lower Value
+105,Apple MagSafe Battery Pack,mobile-accessories,13,1076.682321,99.99,17.17,3.62,High Quantity - High Value
+106,Apple Watch Series 4 Gold,mobile-accessories,17,5234.660433999999,349.99,12.020000000000001,2.74,High Quantity - High Value
+107,Beats Flex Wireless Earphones,mobile-accessories,12,565.506876,49.99,5.73,4.24,High Quantity - High Value
+108,iPhone 12 Silicone Case with MagSafe Plum,mobile-accessories,21,542.564085,29.99,13.85,3.6199999999999997,High Quantity - High Value
+109,Monopod,mobile-accessories,5,91.37429,19.99,8.58,4.43,Low Quantity - Lower Value
+110,Selfie Lamp with iPhone,mobile-accessories,16,193.31104,14.99,19.4,3.5499999999999994,High Quantity - Lower Value
+111,Selfie Stick Monopod,mobile-accessories,16,168.100992,12.99,19.12,3.8800000000000003,High Quantity - Lower Value
+112,TV Studio Camera Pedestal,mobile-accessories,18,8251.934958,499.99,8.31,2.78,High Quantity - High Value
+113,Generic Motorcycle,motorcycle,28,98447.75387999999,3999.9900000000002,12.1,4.910000000000001,High Quantity - High Value
+114,Kawasaki Z800,motorcycle,6,48724.145862,8999.99,9.77,3.98,Low Quantity - High Value
+115,MotoGP CI.H1,motorcycle,22,307163.795224,14999.99,6.92,2.97,High Quantity - High Value
+116,Scooter Motorcycle,motorcycle,8,22495.125016,2999.99,6.27,2.53,Low Quantity - High Value
+117,Sportbike Motorcycle,motorcycle,20,132629.82316,7499.990000000001,11.58,3.94,High Quantity - High Value
+118,Attitude Super Leaves Hand Soap,skin-care,4,29.310996,8.99,18.49,3.19,Low Quantity - Lower Value
+119,Olay Ultra Moisture Shea Butter Body Wash,skin-care,17,184.635963,12.99,16.39,4.51,High Quantity - Lower Value
+120,Vaseline Men Body and Face Lotion,skin-care,25,216.308475,9.99,13.39,3.16,High Quantity - Lower Value
+121,iPhone 5s,smartphones,5,870.856455,199.99,12.91,2.83,Low Quantity - High Value
+122,iPhone 6,smartphones,17,4758.651373000001,299.99,6.69,3.41,High Quantity - High Value
+123,iPhone 13 Pro,smartphones,13,12959.972181000001,1099.99,9.37,4.12,High Quantity - High Value
+126,Oppo F19 Pro Plus,smartphones,8,2603.454912,399.99,18.64,3.51,Low Quantity - High Value
+127,Oppo K1,smartphones,12,2941.4619479999997,299.99,18.29,4.25,High Quantity - High Value
+128,Realme C35,smartphones,11,1397.45683,149.99,15.3,4.2,Low Quantity - High Value
+129,Realme X,smartphones,20,5582.8139,299.99,6.95,3.7,High Quantity - High Value
+130,Realme XT,smartphones,14,4335.886113999999,349.99,11.51,4.58,High Quantity - High Value
+132,Samsung Galaxy S8,smartphones,17,6846.613065,499.99,19.45,4.4,High Quantity - High Value
+133,Samsung Galaxy S10,smartphones,31,20486.677329,699.99,5.59,3.06,High Quantity - High Value
+134,Vivo S1,smartphones,6,1347.3961020000002,249.99,10.17,3.5,Low Quantity - High Value
+135,Vivo V9,smartphones,3,740.945301,299.99,17.67,3.6,Low Quantity - High Value
+136,Vivo X21,smartphones,20,8258.83482,499.99,17.41,4.26,High Quantity - High Value
+137,American Football,sports-accessories,5,95.022465,19.99,4.93,4.91,Low Quantity - Lower Value
+138,Baseball Ball,sports-accessories,9,79.526439,8.99,1.71,2.57,Low Quantity - Lower Value
+139,Baseball Glove,sports-accessories,5,121.32645,24.99,2.9,3.96,Low Quantity - Lower Value
+140,Basketball,sports-accessories,11,152.622184,14.99,7.44,4.66,Low Quantity - Lower Value
+141,Basketball Rim,sports-accessories,22,811.685028,39.99,7.74,4.6,High Quantity - High Value
+142,Cricket Ball,sports-accessories,16,189.90340799999998,12.99,8.63,3.53,High Quantity - Lower Value
+143,Cricket Bat,sports-accessories,1,29.003329,29.99,3.29,3.17,Low Quantity - Lower Value
+144,Cricket Helmet,sports-accessories,5,203.26482000000001,44.99,9.64,4.69,Low Quantity - Lower Value
+145,Cricket Wicket,sports-accessories,1,24.912693,29.99,16.93,4.73,Low Quantity - Lower Value
+146,Feather Shuttlecock,sports-accessories,19,110.452605,5.989999999999999,2.9500000000000006,2.85,High Quantity - Lower Value
+147,Football,sports-accessories,4,68.25406,17.99,5.15,3.28,Low Quantity - Lower Value
+148,Golf Ball,sports-accessories,11,90.802107,9.99,17.37,4.3,Low Quantity - Lower Value
+149,Iron Golf,sports-accessories,15,700.884795,49.99,6.529999999999999,4.41,High Quantity - High Value
+150,Metal Baseball Bat,sports-accessories,13,313.806363,29.99,19.51,4.66,High Quantity - Lower Value
+151,Tennis Ball,sports-accessories,6,37.007856000000004,6.99,11.76,4.06,Low Quantity - Lower Value
+152,Tennis Racket,sports-accessories,16,642.991376,49.99,19.61,4.03,High Quantity - High Value
+153,Volleyball,sports-accessories,10,105.21225,11.99,12.25,3.84,Low Quantity - Lower Value
+154,Black Sun Glasses,sunglasses,6,171.050964,29.99,4.94,4.41,Low Quantity - Lower Value
+155,Classic Sun Glasses,sunglasses,11,261.310434,24.99,4.94,3.86,Low Quantity - Lower Value
+156,Green and Black Glasses,sunglasses,20,692.7320199999999,34.99,1.01,4.55,High Quantity - High Value
+157,Party Glasses,sunglasses,14,248.45970799999998,19.99,11.22,2.79,High Quantity - Lower Value
+158,Sunglasses,sunglasses,6,135.85710600000002,22.99,1.51,3.02,Low Quantity - Lower Value
+159,iPad Mini 2021 Starlight,tablets,14,6745.065096,499.98999999999995,3.6399999999999997,3.18,High Quantity - High Value
+160,Samsung Galaxy Tab S8 Plus Grey,tablets,3,1560.3939930000001,599.99,13.31,4.68,Low Quantity - High Value
+161,Samsung Galaxy Tab White,tablets,23,6584.711859999999,349.99000000000007,18.2,3.72,High Quantity - High Value
+162,Blue Frock,tops,16,421.635408,29.99,12.13,4.17,High Quantity - High Value
+163,Girl Summer Dress,tops,10,161.5192,19.99,19.2,4.77,Low Quantity - Lower Value
+164,Gray Dress,tops,26,779.8291280000001,34.99,14.28,2.72,High Quantity - High Value
+166,Tartan Dress,tops,25,870.282375,39.99,12.95,4.05,High Quantity - High Value
+167,300 Touring,vehicle,9,250612.11358200002,28999.99,3.9799999999999995,4.05,Low Quantity - High Value
+168,Charger SXT RWD,vehicle,7,211988.63576099998,32999.99,8.23,2.58,Low Quantity - High Value
+169,Dodge Hornet GT Plus,vehicle,17,413822.334471,24999.99,2.63,2.65,High Quantity - High Value
+170,Durango SXT RWD,vehicle,19,587426.641236,36999.99,16.44,4.07,High Quantity - High Value
+171,Pacifica Touring,vehicle,8,218214.331808,31999.99,14.76,3.62,Low Quantity - High Value
+172,Blue Women's Handbag,womens-bags,13,533.6732440000001,49.99,17.88,2.92,High Quantity - High Value
+173,Heshe Women's Leather Bag,womens-bags,4,499.83754799999997,129.99,3.87,4.92,Low Quantity - High Value
+174,Prada Women Bag,womens-bags,6,3092.708454,599.99,14.089999999999998,2.7099999999999995,Low Quantity - High Value
+175,White Faux Leather Backpack,womens-bags,18,610.40736,39.99,15.199999999999998,3.36,High Quantity - High Value
+176,Women Handbag Black,womens-bags,21,1113.276423,59.99,11.63,2.89,High Quantity - High Value
+177,Black Women's Gown,womens-dresses,7,814.569336,129.99,10.48,3.64,Low Quantity - High Value
+178,Corset Leather With Skirt,womens-dresses,3,226.072878,89.99,16.26,3.05,Low Quantity - Lower Value
+179,Corset With Black Skirt,womens-dresses,10,679.43506,79.99,15.06,4.52,Low Quantity - High Value
+180,Dress Pea,womens-dresses,18,740.731824,49.99,17.68,4.88,High Quantity - High Value
+181,Marni Red & Black Suit,womens-dresses,11,1603.314922,179.99,19.02,4.48,Low Quantity - High Value
+182,Green Crystal Earring,womens-jewellery,8,203.35619200000002,29.99,15.24,3.96,Low Quantity - Lower Value
+183,Green Oval Earring,womens-jewellery,21,445.126878,24.99,15.179999999999998,3.57,High Quantity - High Value
+184,Tropical Earring,womens-jewellery,13,257.894988,19.99,0.76,4.4,High Quantity - Lower Value
+185,Black & Brown Slipper,womens-shoes,13,251.21632899999997,19.99,3.33,2.53,High Quantity - Lower Value
+187,Golden Shoes Woman,womens-shoes,22,946.580646,49.99,13.93,3.26,High Quantity - High Value
+188,Pampi Shoes,womens-shoes,11,283.243554,29.99,14.14,3.05,Low Quantity - Lower Value
+189,Red Shoes,womens-shoes,2,57.600538,34.99,17.69,3.25,Low Quantity - Lower Value
+190,IWC Ingenieur Automatic Steel,womens-watches,7,31692.436615,4999.99,9.45,2.93,Low Quantity - High Value
+191,Rolex Cellini Moonphase,womens-watches,5,76711.952055,15999.99,4.11,3.83,Low Quantity - High Value
+192,Rolex Datejust Women,womens-watches,14,129452.282316,10999.99,15.94,2.86,High Quantity - High Value
+193,Watch Gold for Women,womens-watches,17,11105.621178000001,799.9900000000001,18.34,4.24,High Quantity - High Value
+194,Women's Wrist Watch,womens-watches,2,227.22252000000003,129.99,12.6,3.52,Low Quantity - Lower Value
