@@ -3,6 +3,21 @@ import pandas as pd
 import plotly.express as px
 from pathlib import Path
 
+# =========================================================
+# PLOTLY CHART CONTROLS
+# =========================================================
+PLOTLY_CONFIG = {
+    "displaylogo": False,
+    "displayModeBar": True,
+    "scrollZoom": True,
+    "modeBarButtonsToAdd": [
+        "zoomIn2d",
+        "zoomOut2d",
+        "autoScale2d",
+        "resetScale2d"
+    ]
+}
+
 
 # =========================================================
 # PAGE CONFIG
@@ -556,7 +571,8 @@ if section == "📈 Overview":
 
         st.plotly_chart(
             fig,
-            use_container_width=True
+            use_container_width=True,
+            config=PLOTLY_CONFIG
         )
 
     with col2:
@@ -582,7 +598,8 @@ if section == "📈 Overview":
 
         st.plotly_chart(
             fig,
-            use_container_width=True
+            use_container_width=True,
+            config=PLOTLY_CONFIG
         )
 
 
@@ -723,7 +740,8 @@ elif section == "🎯 Customer Segmentation":
 
         st.plotly_chart(
             fig,
-            use_container_width=True
+            use_container_width=True,
+            config=PLOTLY_CONFIG
         )
 
     with col2:
@@ -743,7 +761,8 @@ elif section == "🎯 Customer Segmentation":
 
         st.plotly_chart(
             fig,
-            use_container_width=True
+            use_container_width=True,
+            config=PLOTLY_CONFIG
         )
 
     st.subheader("Segment Profiles")
@@ -811,7 +830,8 @@ elif section == "🛍️ Product Analysis":
 
         st.plotly_chart(
             fig,
-            use_container_width=True
+            use_container_width=True,
+            config=PLOTLY_CONFIG
         )
 
     with col2:
@@ -833,7 +853,8 @@ elif section == "🛍️ Product Analysis":
 
         st.plotly_chart(
             fig,
-            use_container_width=True
+            use_container_width=True,
+            config=PLOTLY_CONFIG
         )
 
 
